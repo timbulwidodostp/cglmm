@@ -3,7 +3,6 @@
 # IG : @olahdatasemarang_
 # Fit cosinor model with Generalized Linear Mixed Models Template Model Builder (glmmTMB) Use cglmm With (In) R Software
 install.packages("GLMMcosinor")
-
 library("GLMMcosinor")
 # Estimation Fit cosinor model with Generalized Linear Mixed Models Template Model Builder (glmmTMB) Use cglmm With (In) R Software
 cglmm = read.csv("https://raw.githubusercontent.com/timbulwidodostp/cglmm/main/cglmm/cglmm.csv",sep = ";")
